@@ -1,4 +1,4 @@
-# Talleres Pyladies Ecuador
+# Charlas Pyladies Ecuador
 
 
 <img src="https://raw.githubusercontent.com/pyladies-ecuador/pyladies-ec-kit/master/assets/logos/logo-map-ec.jpg" height="200"> 
